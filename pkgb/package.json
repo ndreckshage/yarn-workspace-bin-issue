@@ -1,0 +1,7 @@
+{
+  "name": "pkgb",
+  "version": "0.0.0",
+  "dependencies": {
+    "babel-plugin-tester": "8.0.1"
+  }
+}
